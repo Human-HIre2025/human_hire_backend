@@ -38,6 +38,7 @@ app.use(
       "https://human-hire-corp-updated.vercel.app",
       "https://rad-health-care.vercel.app",
       "https://rad-health-care.vercel.app",
+      "https://humalifehealthcare.com",
     ],
     credentials: true,
   }),
